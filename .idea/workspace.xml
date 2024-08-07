@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5baf0531-fdd3-4f1b-a44b-264bc61c9871" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/beancycle/BeanlifeCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beancycle/BeanlifeCycleAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beancycle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beancycle/main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dependencyinection/AcccountSeviceContructorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dependencyinection/AcccountSeviceSetterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dependencyinection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/BeanCycle/bean2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/BeanCycle/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Contructor/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/depenSet/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/annotationConfig/AcccountSeviceImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotationConfig/AcccountSeviceImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/annotationConfig/AccountRepository2Imgl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotationConfig/AccountRepository2Imgl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/annotationConfig/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotationConfig/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beanConfig/Bean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/xmlConfig/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/xmlConfig/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pojbean/AcccountSeviceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojbean/AcccountSeviceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pojbean/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojbean/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pojbean/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojbean/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pojbean/AccountRepositoryImgl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojbean/AccountRepositoryImgl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pojbean/AccountSevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pojbean/AccountSevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Xmlbeans/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Xmlbeans/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/annotation/beans2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/annotation/beans2.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HuyHoang31"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HuyHoang31/Spring_day2.git",
+    "accountId": "3807f593-4847-4ae7-b89d-9261d6714e4e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2kEm6sfkZWXdv7NW3RaK8Wh3t0l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.annotationConfig.Main.executor": "Run",
+    "Application.beancycle.Main.executor": "Run",
+    "Application.dependencyinection.Main.executor": "Run",
+    "Application.main2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/M07JAVA/Spring_day2/src/main/resources/annotation",
+    "onboarding.tips.debug.path": "D:/M07JAVA/Spring_day2/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\M07JAVA\Spring_day2\src\main\resources\annotation" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dependencyinection" />
+      <recent name="annotationConfig" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.beancycle.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.xmlConfig.Main" />
+      <module name="Spring_day2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.xmlConfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="annotationConfig.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotationConfig.Main" />
+      <module name="Spring_day2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotationConfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="beancycle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beancycle.Main" />
+      <module name="Spring_day2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beancycle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dependencyinection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dependencyinection.Main" />
+      <module name="Spring_day2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dependencyinection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beancycle.main2" />
+      <module name="Spring_day2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="beancycle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.beancycle.Main" />
+        <item itemvalue="Application.main2" />
+        <item itemvalue="Application.dependencyinection.Main" />
+        <item itemvalue="Application.annotationConfig.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5baf0531-fdd3-4f1b-a44b-264bc61c9871" name="Changes" comment="" />
+      <created>1722856938852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722856938852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/xmlConfig/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dependencyinection/AcccountSeviceSetterImpl.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
